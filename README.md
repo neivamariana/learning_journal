@@ -344,7 +344,10 @@ Obstacles:
 I know what my logic makes sense, but I don’t know if it works with C# logic.
 How am I going to tell unity where the mouse is?
 How will unity know what items can move?
+
+
 How I overcame these obstacles:
+
 I watched a few videos and ended up being able to code it and understand it but simply looking at what things where on several websites. My favourite find was Unity Documentation. Its like a manual for Unity including code, I read this, and it helped me a lot. I always when back to it to check what something did! Even if sometimes I don’t understand what the documentation means I can research it elsewhere.
 What I achieved:
 I achieve a code that not only drags an item when the player clicks down on their mouse it also offsets the item to not be completely under the mouse so that it looks better!
@@ -355,7 +358,10 @@ Dropping Log:
 Starting point: 
 
 Since I can more easily read code and understand it now, I wanted to try to code this by myself.
+
+
 Obstacles:
+
 Again, for me I as I understand it this would be written like so:
 Pseudo Code:
 If(player lets go of mouse) 
