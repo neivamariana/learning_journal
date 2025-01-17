@@ -273,6 +273,7 @@ Starting point:
 
 I already planned everything I originally wanted to make and how I was going to do it in my Class Logs.
 Right now, I want to create a backlog of code I could re-use for other projects by changing simple things like the names of the variables. 
+
 Obstacles:
 
 I have quickly realised that for me to be able to create something I can consider a backlog, I will need to understand what I am coding and to make sure that my code made sense and that I know what I am using and why I am using it in each line of code.
